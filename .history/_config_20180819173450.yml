@@ -78,6 +78,4 @@ theme: miho
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repository: git@github.com:zjtnumber2/zjtnumber2.github.io.git
-  branch: master
+  type:
