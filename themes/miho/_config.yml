@@ -91,7 +91,7 @@ reward:
   # 0-关闭, 1-所有文章均有打赏, 2-文章的md文件里有reward:true属性，才有打赏
   status: 1
   # 标题
-  title: 请我吃糖~
+  title: 请我吃糖~~
   # 微信，关闭设为 false
   wechat: images/wechat_code.jpg
   # 支付宝，关闭设为 false
@@ -100,8 +100,8 @@ reward:
 # Comments | 评论
 
 # 畅言，输入appid和appkey
-changyan_appid: false
-changyan_appkey: false
+changyan_appid: 'cyu1smv0i'
+changyan_appkey: 'e78ec58e305c9f50c8d0dbd2b390c568'
 # 友言，输入id
 youyan_id: false
 # disqus
